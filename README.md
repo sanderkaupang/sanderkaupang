@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sanderkaupang
-- 🌱 I’m currently learning: C#,SQL,Python,HTML
-- 📫 How to reach me: sander.kaupang@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderkaupang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sanderkaupang/sanderkaupang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
