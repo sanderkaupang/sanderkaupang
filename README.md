@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderkaupang&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanderkaupang&layout=compact)
 
 <!---
 sanderkaupang/sanderkaupang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
